@@ -6,7 +6,7 @@ tags: MachineLearning
 category: tech
 ---
 
-小结一下 [Learning From Data](https://work.caltech.edu/lectures.html) Lecture 5~7 所学. 这是 Caltech 的一门机器学习基础课, 质量非常高. 我自己的详细笔记见 [Github](https://github.com/sunoonlee/machine-learning/blob/master/learning_from_data/Learning_From_Data_notes.md).
+小结一下 [Learning From Data](https://work.caltech.edu/lectures.html) Lecture 5~7 所学. 这是 Caltech 的一门机器学习基础课, 质量非常高. 我的课程笔记见 [Github](https://github.com/sunoonlee/machine-learning/blob/master/learning_from_data/Learning_From_Data_notes.md).
 
 ## 泛化
 
