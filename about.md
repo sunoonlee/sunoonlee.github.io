@@ -1,13 +1,9 @@
 ---
-layout: page
-title: "关于"
-description:
-header-img: "img/home-bg.jpg"
+title: About me
 ---
 
-Hi, I'm sunoonlee.
-+ 生于西北小镇, 黄河之滨. 现在坐标成都.
-+ 大学念土木系, 很无趣. 国企建筑设计院工作几年, 更无趣.
-+ 学了一点 Python, 一点点 Java.
-+ 心智觉醒姗姗来迟, 17年初辞职, 专心自学.
-- 未来: 或许从事机器学习, 尽量怂吧.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend.
+
+Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi.
+
+Find me on [GitHub](https://github.com/muan) or [Twitter](https://twitter.com/muanchiou).
