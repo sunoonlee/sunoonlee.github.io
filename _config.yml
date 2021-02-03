@@ -18,7 +18,7 @@ links:
   - name:         About
     url:          /about.html
 
-permalink:        /:title.html
+permalink:        /:year/:title.html
 highlighter: rouge
 markdown: kramdown
 kramdown:
