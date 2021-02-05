@@ -15,7 +15,7 @@ layout: page
 
 [刘未鹏](http://mindhacks.cn/)
 
-[谢益辉](https://yihui.org/cn/)
+[谢益辉](https://yihui.org/cn/): [如何想静静](https://yihui.org/cn/2019/07/inner-peace/)
 
 [Chiyuan Zhang](https://freemind.pluskid.org/)
 
