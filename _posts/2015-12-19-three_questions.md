@@ -1,5 +1,5 @@
 ---
-title: 人生三问
+title: 职业三问
 layout: post
 disqus: y
 ---
@@ -7,7 +7,7 @@ disqus: y
 Jim Collins 在 [Best New Year's Resolution?](http://www.jimcollins.com/article_topics/articles/best-new-years.html) 里提到，为了简化生活、聚焦能量，你应该时常问自己这三个问题：
 
 1. What are you deeply passionate about?
-2. What are you are genetically encoded for — what activities do you feel just "made to do"?
+2. What are you genetically encoded for — what activities do you feel just "made to do"?
 3. What makes economic sense — what can you make a living at?
 
 刚看到这篇文章时，好像眼前一亮：原来人生这么简单，拿这三个问题当指南针，就不怕迷失方向了？
@@ -16,8 +16,7 @@ Jim Collins 在 [Best New Year's Resolution?](http://www.jimcollins.com/article_
 
 没有人不向往在三个问题上都拿高分的生活：做着喜欢又擅长的事情，还能衣食无忧。我想大多数人都问过自己类似的问题，但困难在于：怎么找到适合自己的答案，以及怎么在这种愿望与现实之间权衡？
 
-
-## 怎么寻找答案
+## 怎么寻找答案？
 
 最近意识到，仅靠着分析自己过去的经历和当下的自我反省、判断，不足以找到一个确定的答案。[埃米尼亚.伊瓦拉：如何转变职业生涯](http://www.yangzhiping.com/psy/Working-Identity.html) 这篇文章对我影响很大，引用两段：
 
