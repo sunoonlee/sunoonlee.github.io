@@ -11,11 +11,11 @@ future:           true
 repository_url:   https://github.com/sunoonlee/sunoonlee.github.io
 
 links:
-  - name:         Blog
+  - name:         日志
     url:          /
-  - name:         Links
+  - name:         链接
     url:          /links.html
-  - name:         About
+  - name:         关于
     url:          /about.html
 
 permalink:        /:year/:title.html
