@@ -5,7 +5,7 @@ layout: page
 
 
 
-### 灯塔
+### 关注的人
 
 [Paul Graham](http://www.paulgraham.com/articles.html):  [Hackers and Painters](http://www.paulgraham.com/hp.html) / [What You'll Wish You'd Known](http://www.paulgraham.com/hs.html) / [How to Do What You Love](http://www.paulgraham.com/love.html)
 
