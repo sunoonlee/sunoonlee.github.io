@@ -1,5 +1,5 @@
 ---
-title: 新一代笔记软件：Notion 和 roamresearch
+title: 从印象笔记到 Notion 和 roamresearch
 layout: post
 disqus: y
 ---
