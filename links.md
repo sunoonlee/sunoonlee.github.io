@@ -1,6 +1,7 @@
 ---
 title: 链接
 layout: page
+disqys: y
 ---
 
 
