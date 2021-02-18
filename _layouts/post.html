@@ -20,6 +20,10 @@
       {% if page.disqus == 'y' %}
         {% include disqus.html %}
       {% endif %}
+      {% if site.utterance.repo %}
+        <p style="font-size: 90%; margin-bottom: 0px; text-align: center; color: #a9a9a9; margin-top: 8px;">如果 Disqus 评论系统无法加载，可以使用下面基于 Github 的评论系统（需使用 Github 账号登陆）</p>
+        {% include utterances.html %}
+      {% endif %}
     </div>
     {% include footer.html %}
   </body>

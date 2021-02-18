@@ -1,6 +1,6 @@
 title:            "李明"
 description:      ""
-url:              "https://sunoonlee.github.io"
+url:              "https://sunoonlee.com"
 signoff:          "李明"
 disqus_shortname: sunoonlee-blog
 facebook_appid:   
@@ -28,3 +28,6 @@ kramdown:
   
 sass:
   style: compressed
+
+utterance:
+  repo: sunoonlee/sunoonlee.github.io
