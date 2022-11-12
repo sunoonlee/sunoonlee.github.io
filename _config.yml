@@ -1,0 +1,33 @@
+title:            "明里"
+description:      ""
+url:              "https://sunoonlee.com"
+signoff:          "明里"
+disqus_shortname: sunoonlee-blog
+facebook_appid:   
+google_analytics: 
+timezone:         Asia/Beijing
+highlighter:      pygments
+future:           true
+repository_url:   https://github.com/sunoonlee/sunoonlee.github.io
+
+links:
+  - name:         日志
+    url:          /
+  - name:         链接
+    url:          /links.html
+  - name:         关于
+    url:          /about.html
+
+permalink:        /:year/:title.html
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+  
+sass:
+  style: compressed
+
+utterance:
+  repo: sunoonlee/sunoonlee.github.io
